@@ -14,12 +14,9 @@ def bubble (lis, length):
         length-=1
         print(itterations)
         print(lis)
-        
     print(x)
     return lis
 
 
-
-
 aList = bubble(lis, len(lis)-1)
-print (aList)
+print ("Final:", aList)
