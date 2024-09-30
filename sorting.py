@@ -12,8 +12,6 @@ def bubble (lis, length):
             x+=1
             itterations +=1
         length-=1
-        print(itterations)
-        print(lis)
     print(x)
     return lis
 
